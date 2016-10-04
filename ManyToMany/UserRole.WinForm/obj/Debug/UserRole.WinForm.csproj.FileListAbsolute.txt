@@ -1,0 +1,31 @@
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.exe.config
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.exe
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.pdb
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.xml
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.csprojResolveAssemblyReference.cache
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.Form1.resources
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.Properties.Resources.resources
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.csproj.GenerateResource.Cache
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.exe
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.pdb
+Y:\Группы\9ПВ5\Лекция 10\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.exe.config
+Y:\Группы\9ПВ5\Лекция 10\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.exe
+Y:\Группы\9ПВ5\Лекция 10\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.pdb
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.exe.config
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.exe
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.pdb
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.exe
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.WinForm.pdb
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.Form1.resources
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\obj\Debug\UserRole.WinForm.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.DataLayer.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.WinForm\bin\Debug\UserRole.DataLayer.pdb

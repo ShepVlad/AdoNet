@@ -1,0 +1,19 @@
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.dll.config
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.pdb
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.xml
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\obj\Debug\UserRole.DataLayer.csprojResolveAssemblyReference.cache
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\obj\Debug\UserRole.DataLayer.dll
+D:\ado.net\Лекция 10 ManyToMany\ManyToMany\UserRole.DataLayer\obj\Debug\UserRole.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.dll.config
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\UserRole.DataLayer.pdb
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\obj\Debug\UserRole.DataLayer.dll
+C:\Users\student.STEP\Desktop\ManyToMany\UserRole.DataLayer\obj\Debug\UserRole.DataLayer.pdb
