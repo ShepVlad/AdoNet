@@ -1,0 +1,13 @@
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\01 - dbModel.exe.config
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\01 - dbModel.exe
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\01 - dbModel.pdb
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\01 - dbModel.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\_01___dbModel.Form1.resources
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\_01___dbModel.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\01 - dbModel.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\01 - dbModel.exe
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\01 - dbModel\obj\Debug\01 - dbModel.pdb

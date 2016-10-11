@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShopAdoModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="CategoryId" />
+    </Key>
+    <Property Name="CategoryId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CategoryName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK__Good__CategoryId__09DE7BCC" FromRole="Category" ToRole="Good" />
+  </EntityType>
+  <EntityType Name="Good">
+    <Key>
+      <PropertyRef Name="GoodId" />
+    </Key>
+    <Property Name="GoodId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GoodName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ManufacturerId" Type="Int32" />
+    <Property Name="CategoryId" Type="Int32" />
+    <Property Name="Price" Type="Decimal" Precision="19" Scale="4" Nullable="false" />
+    <Property Name="GoodCount" Type="Decimal" Precision="18" Scale="3" Nullable="false" />
+    <NavigationProperty Name="Category" Relationship="Self.FK__Good__CategoryId__09DE7BCC" FromRole="Good" ToRole="Category" />
+    <NavigationProperty Name="Manufacturer" Relationship="Self.FK__Good__Manufactur__08EA5793" FromRole="Good" ToRole="Manufacturer" />
+  </EntityType>
+  <EntityType Name="Manufacturer">
+    <Key>
+      <PropertyRef Name="ManufacturerId" />
+    </Key>
+    <Property Name="ManufacturerId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ManufacturerName" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Goods" Relationship="Self.FK__Good__Manufactur__08EA5793" FromRole="Manufacturer" ToRole="Good" />
+  </EntityType>
+  <Association Name="FK__Good__CategoryId__09DE7BCC">
+    <End Role="Category" Type="Self.Category" Multiplicity="0..1" />
+    <End Role="Good" Type="Self.Good" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Category">
+        <PropertyRef Name="CategoryId" />
+      </Principal>
+      <Dependent Role="Good">
+        <PropertyRef Name="CategoryId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Good__Manufactur__08EA5793">
+    <End Role="Manufacturer" Type="Self.Manufacturer" Multiplicity="0..1" />
+    <End Role="Good" Type="Self.Good" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Manufacturer">
+        <PropertyRef Name="ManufacturerId" />
+      </Principal>
+      <Dependent Role="Good">
+        <PropertyRef Name="ManufacturerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShopAdoEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Categories" EntityType="Self.Category" />
+    <EntitySet Name="Goods" EntityType="Self.Good" />
+    <EntitySet Name="Manufacturers" EntityType="Self.Manufacturer" />
+    <AssociationSet Name="FK__Good__CategoryId__09DE7BCC" Association="Self.FK__Good__CategoryId__09DE7BCC">
+      <End Role="Category" EntitySet="Categories" />
+      <End Role="Good" EntitySet="Goods" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Good__Manufactur__08EA5793" Association="Self.FK__Good__Manufactur__08EA5793">
+      <End Role="Manufacturer" EntitySet="Manufacturers" />
+      <End Role="Good" EntitySet="Goods" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

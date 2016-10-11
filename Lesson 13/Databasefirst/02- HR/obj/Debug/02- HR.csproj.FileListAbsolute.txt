@@ -1,0 +1,13 @@
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\02- HR.exe.config
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\02- HR.exe
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\02- HR.pdb
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\02- HR.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\_02__HR.Form1.resources
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\_02__HR.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\02- HR.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\02- HR.exe
+C:\Users\student.STEP\Desktop\Adonet\AdoNet\Lesson 13\Databasefirst\02- HR\obj\Debug\02- HR.pdb
