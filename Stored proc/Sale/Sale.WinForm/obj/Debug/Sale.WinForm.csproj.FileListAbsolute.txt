@@ -1,0 +1,13 @@
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\Sale.WinForm.exe.config
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\Sale.WinForm.exe
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\Sale.WinForm.pdb
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.Form1.resources
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.Properties.Resources.resources
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.csproj.GenerateResource.Cache
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.exe
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.WinForm\obj\Debug\Sale.WinForm.pdb

@@ -1,0 +1,12 @@
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\Sale.Console.Test.exe.config
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\Sale.Console.Test.exe
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\Sale.Console.Test.pdb
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\obj\Debug\Sale.Console.Test.exe
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\obj\Debug\Sale.Console.Test.pdb
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\Sale.DataLayer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\bin\Debug\Sale.DataLayer.pdb
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.Console.Test\obj\Debug\Sale.Console.Test.csprojResolveAssemblyReference.cache

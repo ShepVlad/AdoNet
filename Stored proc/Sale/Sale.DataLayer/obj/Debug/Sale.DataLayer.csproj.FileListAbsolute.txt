@@ -1,0 +1,10 @@
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\obj\Debug\Sale.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\Sale.DataLayer.dll.config
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\Sale.DataLayer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\Sale.DataLayer.pdb
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\obj\Debug\Sale.DataLayer.dll
+C:\Users\student.STEP\Desktop\SEGF\AdoNet\Stored proc\Sale\Sale.DataLayer\obj\Debug\Sale.DataLayer.pdb
